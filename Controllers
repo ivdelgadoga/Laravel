@@ -1,0 +1,7 @@
+# Se crean con el comando make:controller NombreControllador
+
+Estos estarán alojados por default en app/Http/Controllers/
+
+Es posible colocarlos en otra carpeta poniendo el nombre de la carpeta (creada o no) antes del nombre del controlador:
+
+make:controller auth/LoginController
